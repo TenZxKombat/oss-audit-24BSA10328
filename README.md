@@ -1,5 +1,5 @@
 oss-audit-24BAI10030
-OSS Audit — 24BAI10030 Student Name: Ayank Kumar Giri Registration Number: 24BAI10030 Course: Open Source Software (OSS NGMC) Chosen Software: Python Submission Date: March 31, 2026
+OSS Audit — 24BSA10328 Student Name: Divyanshu Tiwari Registration Number: 24BSA10328 Course: Open Source Software (OSS NGMC) Chosen Software: Python Submission Date: March 31, 2026
 
 About This Project This repository contains the shell scripts submitted as part of The Open Source Audit capstone project. The project audits the Python programming language across its origin, license, Linux footprint, ecosystem, and comparison with proprietary alternatives.
 
